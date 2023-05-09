@@ -21,6 +21,7 @@ O projeto foi desenvolvido com Django Web Framework:
 -----------------------------------------------------------
 
 O presente projeto foi desenvolvido utilizando as seguintes tecnologias:
+
     - Vscode
     - Python
     - Django
