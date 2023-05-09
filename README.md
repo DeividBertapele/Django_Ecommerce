@@ -28,3 +28,11 @@ O presente projeto foi desenvolvido utilizando as seguintes tecnologias:
     - HTML
 
 -----------------------------------------------------------
+
+
+
+https://github.com/DeividBertapele/Django_Ecommerce/assets/43301551/da2a06cd-d712-4d28-8697-dfcde51241c3
+
+
+
+
